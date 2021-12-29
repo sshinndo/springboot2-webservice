@@ -1,2 +1,3 @@
-# Project exclude paths
-/.gradle/
+# Project exclude paths(Created by .ignore plugin)
+.gradle
+.idea
